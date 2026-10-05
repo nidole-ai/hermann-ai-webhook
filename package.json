@@ -1,1 +1,15 @@
-
+{
+  "name": "hermann-ai-webhook",
+  "version": "1.0.0",
+  "description": "Webhook WhatsApp de HERMANN AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
